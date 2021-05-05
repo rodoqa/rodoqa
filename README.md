@@ -1,8 +1,9 @@
 # Rodolfo Ariel Fernandez
-### QA Automation
-_Mendoza, Argentina_
 
 <a href="https://www.linkedin.com/in/fernandezrodolfo/"><img src="https://media-exp1.licdn.com/dms/image/C5603AQHUC0VgumRebA/profile-displayphoto-shrink_200_200/0/1516776133348?e=1625702400&v=beta&t=LMqtp2Sy16utjmxS2LJVzFcMJ1TazynpWIvMhuKIDfA" alt="profile image" height="256px" align="right"></a>
+
+### QA Automation
+_Mendoza, Argentina_
 
 I am a person who likes to say that his day was productive day and that I'm closer to meeting the goals that I proposed to myself and those that we proposed as a team.
 
