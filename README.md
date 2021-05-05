@@ -1,6 +1,8 @@
 # Rodolfo Ariel Fernandez
-### QA Automation 
+### QA Automation
 _Mendoza, Argentina_
+
+<a href="https://www.linkedin.com/in/fernandezrodolfo/"><img src="https://media-exp1.licdn.com/dms/image/C5603AQHUC0VgumRebA/profile-displayphoto-shrink_200_200/0/1516776133348?e=1625702400&v=beta&t=LMqtp2Sy16utjmxS2LJVzFcMJ1TazynpWIvMhuKIDfA" alt="profile image" height="256px" align="right"></a>
 
 I am a person who likes to say that his day was productive day and that I'm closer to meeting the goals that I proposed to myself and those that we proposed as a team.
 
@@ -10,7 +12,8 @@ Currently I'm aiming more strongly to an Automation career therefore I’m takin
 
 ### ***Contact info.***
 E-Mail: [roarfe.mza.arg@outlook.com](mailto:roarfe.mza.arg@outlook.com)\
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fernandezrodolfo/)
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fernandezrodolfo/)\
+GitHub: [GitHub Profile](https://github.com/rodoqa)
 
 ### ***Frameworks:***
 * [Demo Java-Selenium-Cucumber-TestNG-Maven](https://app.box.com/s/i9i2llzo2fstgkc99itq0zz197uk1nnd)
