@@ -13,10 +13,10 @@ LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fernandezrodolfo/)
 ## ***Experience***
 
 ### QA Enginner @ Cognizant Softvision
-May 2021 - Current
+May 2021 - November 2021
 
 Project
-May 2021 - Current
+May 2021 - November 2021
 
 Carry on manual tests and defining and implementing automation strategy and tools for both Web and API developments of the modernization project for one of largest food american corporation.
 
