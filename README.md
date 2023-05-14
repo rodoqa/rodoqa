@@ -10,9 +10,6 @@ I do not like to feel that I’m not making any progress therefore I'm always lo
 E-Mail: [roarfe.mza.arg@outlook.com](mailto:roarfe.mza.arg@outlook.com)\  
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fernandezrodolfo/)  
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernandezrodolfo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/fernandezrodolfo?trk=profile-badge">Rodolfo Ariel Fernández</a></div>
-
 ***
   
 ## ***Experience***  
