@@ -1,4 +1,3 @@
-[![Board Status](https://dev.azure.com/rodosdet/bf40e067-4e38-4547-b495-c47175630692/58f6e7a6-6c52-4025-a5b7-10cf725d2ce4/_apis/work/boardbadge/ab8dcaa3-4fb0-4765-a9cf-72cdea72292d?columnOptions=1)](https://dev.azure.com/rodosdet/bf40e067-4e38-4547-b495-c47175630692/_boards/board/t/58f6e7a6-6c52-4025-a5b7-10cf725d2ce4/Microsoft.RequirementCategory/)
 # Rodolfo Ariel Fernandez  
   
 I am a person who likes to say that his day was productive day and that I'm closer to meeting the goals that I proposed to myself and those that we proposed as a team.  
@@ -10,6 +9,9 @@ I do not like to feel that I’m not making any progress therefore I'm always lo
 ## ***Contact info.***  
 E-Mail: [roarfe.mza.arg@outlook.com](mailto:roarfe.mza.arg@outlook.com)\  
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fernandezrodolfo/)  
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernandezrodolfo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/fernandezrodolfo?trk=profile-badge">Rodolfo Ariel Fernández</a></div>
 
 ***
   
